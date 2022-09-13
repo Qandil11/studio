@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DirectClip</string>
+    <!--string name="app_name">Stammvision</string> -->
+    <string name="settings_button">Einstellungen</string>
+    <string name="close_button">Schließen</string>
+    <string name="app_content"></string>
+
+</resources>
